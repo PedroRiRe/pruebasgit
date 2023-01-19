@@ -46,4 +46,4 @@ Quedaría así:
 Entonces ya podemos dar a Apply
 ![[apply.png]]
 
-Hacemos Push y el código quedará subido a github con el conflico resuelto.
+Hacemos Push y el código quedará subido a github con el conflicto resuelto.
