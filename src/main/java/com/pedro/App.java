@@ -5,7 +5,7 @@ public class App {
         System.out.println("Este cambio está hecho desde Github");
         System.out.println("Conflicto provocado...");
         String name = "Pedro";
-        Integer telf = 678****68;
+        Integer telf = 67868;
         System.out.println("conflicto resuelto");
     }
 }
